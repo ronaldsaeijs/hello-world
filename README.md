@@ -1,2 +1,2 @@
 # hello-world
-my first tryout in GitHub
+my very first tryout in GitHub
